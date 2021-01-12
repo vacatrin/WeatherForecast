@@ -41,7 +41,9 @@ namespace PersonalWeather
                         });
                 }
             );
-            services.AddScoped<ILoggerPersonal, LoggerPersonal>();
+            asdas aservices.AddScoped<ILoggerPersonal, LoggerPersonal>();
+            aasdas
+                asdasda
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
